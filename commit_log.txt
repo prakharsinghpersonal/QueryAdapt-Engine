@@ -1,1 +1,2 @@
 - Commit 2 (Go gRPC Server): Build the gRPC service that receives high-throughput data requests and interfaces with the MongoDB cluster.
+- Commit 3 (Adaptive Indexing): Implement the core "adaptive" algorithm in Go that analyzes incoming query patterns and automatically suggests or builds MongoDB indexes.
