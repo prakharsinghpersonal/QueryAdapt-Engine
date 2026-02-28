@@ -1,0 +1,1 @@
+# QueryAdapt-Engine\n\n**QueryAdapt: Distributed Indexing Engine - Distributed query engine in Go utilizing adaptive indexing algorithms.**\n\n## Tech Stack\n- Go\n- gRPC\n- MongoDB\n- Kubernetes\n
