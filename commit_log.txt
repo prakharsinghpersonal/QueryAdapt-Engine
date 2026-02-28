@@ -1,0 +1,1 @@
+- Commit 2 (Go gRPC Server): Build the gRPC service that receives high-throughput data requests and interfaces with the MongoDB cluster.
